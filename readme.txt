@@ -22,7 +22,7 @@ Para realizar as operações, você precisa:
 1. Realize o download do xampp na sua máquina: https://www.apachefriends.org/pt_br/index.html
 	1.1.Faça o download de acordo com o seu sitema operacional e instale
 
-2. Crie uma pasta "api" dentro da pasta da instalação do XAMPP chamada "htdocs" e cole a pasta "operacoes" que esta no github dentro.
+2. Crie uma pasta "api" dentro da pasta da instalação do XAMPP chamada "htdocs" e cole a pasta "todos" que esta no github dentro.
 
 3. Faça o download da pasta "tarefa" dentro do github e coloque a pasta dentro do local de instalação do XAMPP em "xampp/mysql/data"
 	3.1. Com isso, você vai ter a base de dados criada no localhost/phpmyadmin
